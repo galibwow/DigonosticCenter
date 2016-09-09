@@ -1,0 +1,16 @@
+C:\Users\Galib\Documents\Visual Studio 2013\Projects\DisgonisticCenter\DisgonisticCenter\obj\Debug\DisgonisticCenter.csprojResolveAssemblyReference.cache
+C:\Users\Galib\Documents\Visual Studio 2013\Projects\DisgonisticCenter\DisgonisticCenter\bin\DisgonisticCenter.dll.config
+C:\Users\Galib\Documents\Visual Studio 2013\Projects\DisgonisticCenter\DisgonisticCenter\bin\DisgonisticCenter.dll
+C:\Users\Galib\Documents\Visual Studio 2013\Projects\DisgonisticCenter\DisgonisticCenter\bin\DisgonisticCenter.pdb
+C:\Users\Galib\Documents\Visual Studio 2013\Projects\DisgonisticCenter\DisgonisticCenter\obj\Debug\DisgonisticCenter.dll
+C:\Users\Galib\Documents\Visual Studio 2013\Projects\DisgonisticCenter\DisgonisticCenter\obj\Debug\DisgonisticCenter.pdb
+D:\Office\Projects\Digonostic\DisgonisticCenter\DisgonisticCenter\bin\DisgonisticCenter.dll.config
+D:\Office\Projects\Digonostic\DisgonisticCenter\DisgonisticCenter\bin\DisgonisticCenter.dll
+D:\Office\Projects\Digonostic\DisgonisticCenter\DisgonisticCenter\bin\DisgonisticCenter.pdb
+D:\Office\Projects\Digonostic\DisgonisticCenter\DisgonisticCenter\obj\Debug\DisgonisticCenter.dll
+D:\Office\Projects\Digonostic\DisgonisticCenter\DisgonisticCenter\obj\Debug\DisgonisticCenter.pdb
+D:\Office\Projects\Digonostic\DisgonisticCenter\DisgonisticCenter\bin\itextsharp.dll
+D:\Office\Projects\Digonostic\DisgonisticCenter\DisgonisticCenter\bin\itextsharp.xml
+D:\Office\Projects\Digonostic\DisgonisticCenter\DisgonisticCenter\bin\Newtonsoft.Json.dll
+D:\Office\Projects\Digonostic\DisgonisticCenter\DisgonisticCenter\bin\Newtonsoft.Json.xml
+D:\Office\Projects\Digonostic\DisgonisticCenter\DisgonisticCenter\obj\Debug\DisgonisticCenter.csprojResolveAssemblyReference.cache
